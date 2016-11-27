@@ -4,7 +4,7 @@
 
 int main()
 {
-    printf("Hai!\n");
+    printf(":thinking:\n");
 
     Tar tar("resources.tar");
 
